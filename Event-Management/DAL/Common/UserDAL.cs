@@ -8,5 +8,6 @@ namespace Event_Management.DAL.Common
 {
     internal class UserDAL
     {
+        string name, id, password;
     }
 }
